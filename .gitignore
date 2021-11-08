@@ -1,0 +1,4 @@
+*.zip
+*.csv
+*.dic
+.venv/
